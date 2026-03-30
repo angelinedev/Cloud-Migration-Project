@@ -24,3 +24,5 @@ composer-setup.php
 [safe]
 	directory = /var/www/kimai
 	directory = /home/ec2-user/kimai
+config.bat
+node_modules

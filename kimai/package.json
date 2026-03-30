@@ -13,11 +13,11 @@
     "url": "git+https://github.com/kimai/kimai.git"
   },
   "scripts": {
-    "dev-server": "yarn encore dev-server",
-    "dev": "yarn encore dev",
+    "dev-server": "node init && yarn encore dev-server",
+    "dev": "node init && yarn encore dev",
     "watch": "yarn encore dev --watch",
     "lint": "yarn eslint assets/js/",
-    "build": "yarn encore production"
+    "build": "node init && yarn encore production"
   },
   "browserslist": [
     "defaults"
