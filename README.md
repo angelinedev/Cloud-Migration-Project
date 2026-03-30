@@ -12,7 +12,7 @@ This project focuses on migrating the **Kimai** time-tracking application to a c
 | --- | --- |
 | Backend | PHP (Symfony Framework) |
 | Frontend | HTML/CSS/JS (Bundled) |
-| DB | MariaDB / MySQL |
+| DB | MariaDB  |
 | Server | Nginx |
 | Runtime | PHP-FPM |
 | OS | Amazon Linux 2 (EC2) |
